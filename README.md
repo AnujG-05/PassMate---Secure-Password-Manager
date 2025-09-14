@@ -25,16 +25,6 @@ PassMate is a **secure, user-friendly password manager** built with **React** an
 - **Security**: AES Encryption (`crypto-js`), TOTP (`otplib`)  
 - **Other Libraries**: `zxcvbn` for password strength, `qrcode.react` for TOTP QR  
 
----
-
-## ⚙️ Setup Instructions
-
-1. **Clone the repository**
-
-```bash
-git clone https://github.com/AnujG-05/PassMate-Secure-Password-Manage.git
-
-
 📂 Project Structure
 
 passmate/
@@ -50,4 +40,13 @@ passmate/
  ├── package.json
  ├── package-lock.json
  └── README.md
+
+---
+
+## ⚙️ Setup Instructions
+
+1. **Clone the repository**
+
+```bash
+git clone https://github.com/AnujG-05/PassMate-Secure-Password-Manage.git
 
