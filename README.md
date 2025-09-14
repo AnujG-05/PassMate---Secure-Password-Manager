@@ -41,46 +41,41 @@
 
 ## 📂 Project Structure
 
-passmate/
-
-├── public/                     
-│   └── index.html              
-├── src/                        
-│   ├── App.css                 
-│   ├── App.js                  
-│   ├── App.test.js             
-│   ├── Login.js                
-│   ├── MainApp.js              
-│   ├── firebase.js             
-│   ├── index.css               
-│   ├── index.js                                
-│   ├── reportWebVitals.js      
-│   ├── setupTests.js           
-│   ├── theme.js                
-│   └── utils/ 
-│       └── crypto.js 
-├── .firebaserc                 
-├── .gitignore                 
-├── firebase.json              
-├── package.json                
-├── package-lock.json          
-└── README.md                   
-
----
+-   **passmate/**
+    -   `.firebaserc`
+    -   `.gitignore`
+    -   `firebase.json`
+    -   `package-lock.json`
+    -   `package.json`
+    -   `README.md`
+    -   **public/**
+        -   `index.html`
+    -   **src/**
+        -   `App.css`
+        -   `App.js`
+        -   `App.test.js`
+        -   `Login.js`
+        -   `MainApp.js`
+        -   `firebase.js`
+        -   `index.css`
+        -   `index.js`
+        -   `reportWebVitals.js`
+        -   `setupTests.js`
+        -   `theme.js`
+        -   **utils/**
+            -   `crypto.js`
 
 ## 🚀 Quick Start
 
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/your-username/passmate.git](https://github.com/your-username/passmate.git)
-    cd passmate
-    ```
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/your-username/passmate.git
+   cd passmate
 
 2.  **Install dependencies:**
     ```bash
     npm install
     ```
-    
 3.  **Add your Firebase config** to `src/firebase.js`.
 
 4.  **Run the application:**
