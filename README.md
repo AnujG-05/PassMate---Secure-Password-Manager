@@ -31,10 +31,11 @@ PassMate is a **secure, user-friendly password manager** built with **React** an
 
 1. **Clone the repository**
 
-```bash
+``bash
 git clone https://github.com/AnujG-05/PassMate-Secure-Password-Manage.git
 
-## 📂 Project Structure
+
+📂 Project Structure
 
 passmate/
  ├── public/                 # Static assets
