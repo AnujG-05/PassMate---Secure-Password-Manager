@@ -69,7 +69,7 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/passmate.git
+   git clone https://github.com/AnujG-05/PassMate-Secure-Password-Manager.git
    cd passmate
 
 2.  **Install dependencies:**
